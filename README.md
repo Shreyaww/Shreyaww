@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@2020_shreya_sin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2020_shreya_sin1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/2020_shreya_sin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2020_shreya_sin1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyaww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyaww" height="30" width="40" /></a>
 </p>
 
